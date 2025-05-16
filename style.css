@@ -1,0 +1,30 @@
+body {
+    font-family: monospace, sans-serif;
+    text-align: center;
+    background-image: url(gg.jpeg);
+    background-size: cover;
+    color: white;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3rem;
+    color: gold;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ffc107;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #025a1d;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #e0a800;
+}
